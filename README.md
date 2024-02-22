@@ -26,10 +26,10 @@ This is a Node.js service for registering football matches that users have atten
 
 ```
 PORT=3333
-MYSQL_HOST=localhost
-MYSQL_USER=root
-MYSQL_PASSWORD=root
-MYSQL_DB=football-historical-matches
+MYSQL_HOST=db_host
+MYSQL_USER=db_user
+MYSQL_PASSWORD=db_password
+MYSQL_DB=db_name
 ```
 
 ## Usage
