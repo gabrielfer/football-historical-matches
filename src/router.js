@@ -18,7 +18,7 @@ router.delete('/matches/', (_request, res) => {
 });
 
 router.put(
-  '/matches:id',
+  '/matches/:id',
   matchesMiddleware.validateBody,
   matchesController.updateMatch
 );
