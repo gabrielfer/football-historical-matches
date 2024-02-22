@@ -24,11 +24,13 @@ This is a Node.js service for registering football matches that users have atten
 1. Create a `.env` file in the root directory (there is a .env.example in the project root)
 2. Add environment-specific variables as needed. For example:
 
+```
 PORT=3333
 MYSQL_HOST=localhost
 MYSQL_USER=root
 MYSQL_PASSWORD=root
 MYSQL_DB=football-historical-matches
+```
 
 ## Usage
 
