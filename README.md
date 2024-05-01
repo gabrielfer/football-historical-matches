@@ -1,6 +1,6 @@
 # Football Historical Matches registration service
 
-This is a Node.js service for registering football matches that users have attended around the world. It provides CRUD operations for managing match records.
+A Node.js service for registering football matches that users have attended around the world. It provides CRUD operations for managing match records.
 
 ## Dependencies
 
